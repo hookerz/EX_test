@@ -1,0 +1,14 @@
+.idea
+.tmp
+.sass-cache
+.vagrant
+dist
+node_modules
+bower_components
+app/main.build.js
+*.pyc
+batch
+/batch/**/*.*
+out
+cache
+package-lock.json
